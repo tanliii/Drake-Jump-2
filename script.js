@@ -7,7 +7,7 @@ function jump() {
 
         setTimeout(function() {
             twentyone.classList.remove("jump");
-        }, 300); //removes css animation 'jump' after 300ms so you can keep pressing key
+        }, 800); //removes css animation 'jump' after 300ms so you can keep pressing key
     }
 }
 
